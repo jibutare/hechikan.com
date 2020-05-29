@@ -1,4 +1,4 @@
-baseurl = "https://hechikan.netlify.app"
+baseurl = "https://hechikan.com"
 defaultContentLanguage = "ja"
 staticDir = "static"
 theme = "hello-friend"
