@@ -2,22 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>X-H1, XF35mm on 琵琶湖のほとりじぶたれる日々</title>
-    <link>https://hechikan.com/tags/x-h1-xf35mm/</link>
+    
+    
+    
+    <link>https://hechikan.netlify.app/tags/x-h1-xf35mm/</link>
     <description>Recent content in X-H1, XF35mm on 琵琶湖のほとりじぶたれる日々</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 28 May 2020 13:33:19 +0900</lastBuildDate>
     
-	<atom:link href="https://hechikan.com/tags/x-h1-xf35mm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hechikan.netlify.app/tags/x-h1-xf35mm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>椅子 #1</title>
-      <link>https://hechikan.com/2020/05/28/chair-1/</link>
+      <link>https://hechikan.netlify.app/2020/05/28/chair-1/</link>
       <pubDate>Thu, 28 May 2020 13:33:19 +0900</pubDate>
       
-      <guid>https://hechikan.com/2020/05/28/chair-1/</guid>
-      <description>同じ光は二度と来ないから焦る
-FUJIFILM X-H1 FUJINON XF35mmF1.4 R</description>
+      <guid>https://hechikan.netlify.app/2020/05/28/chair-1/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://hechikan.netlify.app/images/2020/05/_DSF1263.jpg&#34;/&gt;
+          
+        
+        
+        
+          同じ光は二度と来ないから焦る
+FUJIFILM X-H1 FUJINON XF35mmF1.4 R
+          
+        
+        </description>
     </item>
     
   </channel>
