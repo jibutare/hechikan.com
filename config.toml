@@ -1,0 +1,52 @@
+baseurl = "https://hechikan.com"
+defaultContentLanguage = "ja"
+staticDir = "static"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+[permalinks]
+    posts = "/:year/:month/:day/:title/"
+
+[languages]
+  [languages.ja]
+    title = "琵琶湖のほとりじぶたれる日々"
+    subtitle = "写詩ん / 独白 / 琵琶湖"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "続きを読む"
+    readOtherPosts = "Read other posts"
+    newerPosts = "新しい記事"
+    olderPosts = "古い記事"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.ja.params.logo]
+      logoText = "琵琶湖のほとりじぶたれる日々"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.ja.menu]
+      [[languages.ja.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.ja.menu.main]]
+        identifier = "archive"
+        name = "過去の記事"
+        url = "/archive"
